@@ -1,0 +1,24 @@
+{
+  "frames": [
+    {
+      "title": "Production",
+      "value": "1000W",
+      "color": "#00FF00"
+    },
+    {
+      "title": "Consumption",
+      "value": "500W",
+      "color": "#FF0000"
+    },
+    {
+      "title": "Battery SoC",
+      "value": "80%",
+      "color": "#0000FF"
+    },
+    {
+      "title": "Autarky",
+      "value": "Today: 60%, Yesterday: 50%",
+      "color": "#FFFFFF"
+    }
+  ]
+}
