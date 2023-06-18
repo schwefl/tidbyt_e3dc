@@ -1,0 +1,22 @@
+{
+	"feed_url": "https://tidbyt-json-display.s3.eu-west-1.amazonaws.com/example.json",
+	"title_image": "https://tidbyt-json-display.s3.eu-west-1.amazonaws.com/heart.png",
+	"title_text": "E3DC @AW15b Live Status",
+	"data": [
+		{
+			"title": "Solar Production",
+			"value": "1000 W",
+			"color": "00CC00"
+		},
+		{
+			"title": "Home Consumption",
+			"value": "1000 W",
+			"color": "FF3333"
+		},
+		{
+			"title": "Battery SoC",
+			"value": "100 %",
+			"color": "3333FF"
+		}
+	]
+}
