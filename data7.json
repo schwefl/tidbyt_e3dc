@@ -4,18 +4,18 @@
 	"title_text": "E3DC Status",
 	"data": [
 		{
-		"title": "Production",
+		"title": "PV",
                 "value": "1000 W",
                 "color": "#00FF00"
             	},
             	{
-                "title": "Consumption",
+                "title": "Home",
                 "value": "1000 W",
                 "color": "#FF0000"
             	},
             	{
-                "title": "Battery",
-                "value": "SoC: 100%; T: 60%, Y: 50%",
+                "title": "SoC:",
+                "value": "100%; Autarky: 60% (50%)",
                 "color": "#FFFFFF"
     		}
 		]
