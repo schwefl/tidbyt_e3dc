@@ -1,0 +1,21 @@
+{
+	"feed_url": "https://tidbyt-json-display.s3.eu-west-1.amazonaws.com/example.json",
+	"title_text": "E3DC @AW15b",
+	"data": [
+		{
+			"title": "Production",
+			"value": "1000 W",
+			"color": "00CC00"
+		},
+		{
+			"title": "Consumption",
+			"value": "1000 W",
+			"color": "FF3333"
+		},
+		{
+			"title": "SoC",
+			"value": "100 %",
+			"color": "3333FF"
+		}
+	]
+}
