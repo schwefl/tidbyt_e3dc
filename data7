@@ -1,0 +1,22 @@
+{
+	"feed_url": "https://tidbyt-json-display.s3.eu-west-1.amazonaws.com/example.json",
+	"title_image": "https://tidbyt-json-display.s3.eu-west-1.amazonaws.com/heart.png",
+	"title_text": "E3DC Status",
+	"data": [
+		{
+		"title": "Production",
+                "value": "1000 W",
+                "color": "#00FF00"
+            	},
+            	{
+                "title": "Consumption",
+                "value": "1000 W",
+                "color": "#FF0000"
+            	},
+            	{
+                "title": "Battery",
+                "value": "SoC: 100%; T: 60%, Y: 50%",
+                "color": "#FFFFFF"
+    		}
+		]
+}
