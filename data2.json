@@ -3,12 +3,12 @@
 	"title_text": "E3DC @AW15b",
 	"data": [
 		{
-			"title": "Solar Production",
+			"title": "Production",
 			"value": "1000 W",
 			"color": "00CC00"
 		},
 		{
-			"title": "Home Consumption",
+			"title": "Consumption",
 			"value": "1000 W",
 			"color": "FF3333"
 		},
