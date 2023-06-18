@@ -5,12 +5,12 @@
 	"data": [
 		{
 			 "title": "Production",
-                "value": f"{current_production}W",
+                "value": "1000 W",
                 "color": "#00FF00"
             },
             {
                 "title": "Consumption",
-                "value": f"{home_consumption}W",
+                "value": "1000 W",
                 "color": "#FF0000"
             },
             {
