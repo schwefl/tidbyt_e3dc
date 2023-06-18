@@ -1,5 +1,5 @@
 {
-	"feed_url": "https://tidbyt-json-display.s3.eu-west-1.amazonaws.com/example.json",
+	"feed_url": "https://raw.githubusercontent.com/schwefl/tidbyt_e3dc/main/data4.json",
 	"title_text": "E3DC @AW15b",
 	"data": [
 		{
